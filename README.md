@@ -19,6 +19,10 @@ fisher i imajes
 * [spacegray.terminal]
 * Font: 12pt [Hack](https://github.com/chrissimpkins/Hack) Regular
 
+## Credit
+
+Inspired by [oh-my-zsh imajes](https://github.com/robbyrussell/oh-my-zsh/wiki/themes#imajes)
+
 [slack-link]: https://fisherman-wharf.herokuapp.com/
 [slack-badge]: https://img.shields.io/badge/slack-join%20the%20chat-00B9FF.svg?style=flat-square
 [Fisherman]: https://github.com/fisherman/fisherman
